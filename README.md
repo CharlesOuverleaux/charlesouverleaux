@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+After working 6 years in sales and marketing I decided to focus on the parts of my jobs I enjoyed the most: coding 💻 and problem solving 🚀. Always eager to learn more, I changed career path and dived into programming. I'm combining my analytical mindset and understanding of ecommerce in my work as a developer.
+
+Don't hesitate to get in touch 💬
 <!--
 **CharlesOuverleaux/charlesouverleaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
