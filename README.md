@@ -4,6 +4,9 @@ Building is more than a passion 🪚 🛠 I love to create great products from s
 
 Don't hesitate to get in touch 💬 <br>
 https://www.charlesouverleaux.co/
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=CharlesOuverleaux&count_private=true&show_icons=true&include_all_commits=true)
+
 <!--
 **CharlesOuverleaux/charlesouverleaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
