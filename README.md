@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Currently working for OneFootball Labs (web3) as Frontend Engineer in Germany.
+
 Building is more than a passion 🪚 🛠 I love to create great products from scratch and add my 6 years of experience in sales and marketing to create the best experience for users. Always up for a good coffee to discuss new ideas ☕️
 
 Don't hesitate to get in touch 💬 <br>
